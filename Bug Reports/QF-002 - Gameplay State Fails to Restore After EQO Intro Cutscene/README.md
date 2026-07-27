@@ -8,7 +8,7 @@
 |----------|-------|
 | **Project** | Quantum Flip |
 | **Report ID** | QF-002 |
-| **Status** | Open |
+| **Status** | Closed |
 | **Reported By** | Nathanial Birdseye |
 | **Date** | July 26, 2026 |
 | **Game Build** | Prototype 0.0.1 |
@@ -126,4 +126,4 @@ If GitHub does not preview the video in your browser, click the file and select 
 
 ## Resolution
 
-**Status:** Open
+**Status:** Closed

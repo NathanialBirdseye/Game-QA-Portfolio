@@ -115,6 +115,15 @@ This issue is fully resolved by assigning the Player prefab reference within the
 
 ---
 
+## Video Evidence
+
+If GitHub does not preview the video in your browser, click the file and select **Download raw file** to view the recording locally.
+
+- `QF-001-Problem.mp4`
+- `QF-001-WorkAround.mp4`
+
+---
+
 ## Resolution
 
 **Status:** Open

@@ -88,19 +88,15 @@ Traveling to Verdant and then returning to Lunareth correctly restores the camer
 
 ---
 
-## Attachments
+## Attachments(Inside Media Folder)
 
 ### Problem Demonstration
-
-`Media/QF-001-Problem.mp4`
 
 Demonstrates the incorrect camera bounds after transitioning from Rootward to Lunareth.
 
 ---
 
 ### Workaround Demonstration
-
-`Media/QF-001-WorkAround.mp4`
 
 Demonstrates that transitioning through Verdant correctly restores the camera bounds.
 

@@ -102,7 +102,7 @@ Several restoration events appear dependent upon this reference during cutscene 
 
 ---
 
-## Attachments
+## Attachments(Inside Media Folder)
 
 - QF-002-Problem.mp4 — Demonstrates gameplay state failing to restore.
 - QF-002-Fix.mp4 — Demonstrates normal behavior after assigning the Player reference.
@@ -119,8 +119,8 @@ This issue is fully resolved by assigning the Player prefab reference within the
 
 If GitHub does not preview the video in your browser, click the file and select **Download raw file** to view the recording locally.
 
-- `QF-001-Problem.mp4`
-- `QF-001-WorkAround.mp4`
+- `QF-002-Problem.mp4`
+- `QF-002-Fix.mp4`
 
 ---
 

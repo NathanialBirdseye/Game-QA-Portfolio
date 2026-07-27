@@ -70,7 +70,6 @@ Once the cutscene finishes:
 
 - Camera returns to the player.
 - Camera follow resumes.
-- HUD fades back in.
 - EQO returns to the player's shoulder.
 - Player regains normal gameplay control.
 
@@ -82,7 +81,6 @@ After the cutscene completes:
 
 - Camera remains zoomed out.
 - Camera follow does not resume.
-- HUD remains hidden.
 - EQO does not return to the player's shoulder.
 - Player can move around the cutscene room while the camera remains locked.
 

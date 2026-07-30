@@ -8,7 +8,7 @@
 |----------|-------|
 | **Project** | Quantum Flip |
 | **Report ID** | QF-003 |
-| **Status** | Open |
+| **Status** | Closed |
 | **Reported By** | Nathanial Birdseye |
 | **Date** | July 30, 2026 |
 | **Game Build** | Prototype 0.0.1 |
@@ -115,4 +115,4 @@ This issue prevents players from accessing the Mawvine room, blocking progressio
 
 ## Resolution
 
-**Status:** Open
+**Status:** Closed

@@ -21,7 +21,7 @@ I'm Nathanial Birdseye, a Unity developer building **Quantum Flip**, and this re
 |----|-------|--------|
 | QF-001 | Camera Bounds Fail to Reset When Transitioning Rootward → Lunareth | Open |
 | QF-002 | Gameplay State Fails to Restore After EQO Intro Cutscene | Closed |
-
+| QF-003 | Lever Base Rotates Instead of Handle, Blocking Progression | Closed |
 ---
 
 ## Repository Structure
